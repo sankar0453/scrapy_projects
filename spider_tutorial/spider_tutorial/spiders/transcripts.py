@@ -11,7 +11,7 @@ class TranscriptsSpider(CrawlSpider):
     # rules = (Rule(LinkExtractor(allow=r"Items/"), callback="parse_item", follow=True),)
     rules = (
         Rule(LinkExtractor(restrict_xpaths=("//ul[@class='scripts-list']/a")), callback='parse_item', follow=True),
-        # Rule(LinkExtractor(restrict_xpaths=("(//a[@rel='next'])[1]"))),
+        Rule(LinkExtractor(restrict_xpaths=("(//a[@rel='next'])[1]"))),
     )
      
     def parse_item(self, response):
