@@ -7,4 +7,12 @@ class QuotesSpider(scrapy.Spider):
     start_urls = ["https://quotes.toscrape.com/api/quotes?page=1"]
 
     def parse(self, response):
-        pass
+        json_response = json.loads(response.body)
+        quotes = json_response.get('quotes')
+        
+        for quote in quotes:
+            yield {
+                "author": quote.get('author').get('name'),
+                "tag":quote.get('tags') ,
+                "quotes":quote.get('text') 
+            }
