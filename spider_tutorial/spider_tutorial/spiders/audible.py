@@ -6,6 +6,12 @@ class AudibleSpider(scrapy.Spider):
     allowed_domains = ["www.audible.com"]
     start_urls = ["https://www.audible.com/search"]
 
+    def start_requests(self):
+        # Editing the default headers (user-agent)
+        yield scrapy.Request(url='https://www.audible.com/search/', callback=self.parse,
+                       headers={'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36'})
+
+
     def parse(self, response):
         product_container = response.xpath("//div[@class='adbl-impression-container']/li")
 
@@ -26,4 +32,8 @@ class AudibleSpider(scrapy.Spider):
 
         # Going to the "next_page_url" link
         if next_page_url:
-            yield response.follow(url=next_page_url, callback=self.parse)
+            yield response.follow(url=next_page_url, callback=self.parse,
+                                  headers={'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36'})
+
+            
+            

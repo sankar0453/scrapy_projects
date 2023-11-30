@@ -27,3 +27,6 @@ Steps :
    17  scrapy genspider worldmeters www.worldometers.info/world-population/population-by-country
        scrapy crawl worldmeters
        scrapy crawl worldmeters -o population_2.json
+
+user agents
+https://explore.whatismybrowser.com/useragents/explore/
