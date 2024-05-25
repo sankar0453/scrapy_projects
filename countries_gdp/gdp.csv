@@ -1,0 +1,216 @@
+country,region,gdp_nominal,year
+,,,
+,,,
+,,"109,529,216	",2024
+United States,Americas,"28,781,083",2024
+China,Asia,"18,532,633",2024
+Germany,Europe,"4,591,100",2024
+Japan,Asia,"4,110,452",2024
+India,Asia,"3,937,011",2024
+United Kingdom,Europe,"3,495,261",2024
+France,Europe,"3,130,014",2024
+Brazil,Americas,"2,331,391",2024
+Italy,Europe,"2,328,028",2024
+Canada,Americas,"2,242,182",2024
+Russia,Europe,"2,056,844",2024
+Mexico,Americas,"2,017,025",2024
+Australia,Oceania,"1,790,348",2024
+South Korea,Asia,"1,760,947",2024
+Spain,Europe,"1,647,114",2024
+Indonesia,Asia,"1,475,690",2024
+Netherlands,Europe,"1,142,513",2024
+Turkey,Asia,"1,113,561",2024
+Saudi Arabia,Asia,"1,106,015",2024
+Switzerland,Europe,"938,458",2024
+Poland,Europe,"844,623",2024
+Taiwan,Asia,"802,958",2024
+Belgium,Europe,"655,192",2024
+Sweden,Europe,"623,048",2024
+Argentina,Americas,"604,260",2024
+Ireland,Europe,"564,020",2024
+Thailand,Asia,"548,890",2024
+Austria,Europe,"540,887",2024
+Israel,Asia,"530,664",2024
+United Arab Emirates,Asia,"527,796",2024
+Norway,Europe,"526,951",2024
+Singapore,Asia,"525,230",2024
+Philippines,Asia,"471,516",2024
+Vietnam,Asia,"465,814",2024
+Iran,Asia,"464,181",2024
+Bangladesh,Asia,"455,162",2024
+Malaysia,Asia,"445,519",2024
+Denmark,Europe,"409,989",2024
+Hong Kong,Asia,"406,775",2024
+Colombia,Americas,"386,076",2024
+South Africa,Africa,"373,233",2024
+Romania,Europe,"369,971",2024
+Egypt,Africa,"347,594",2024
+Pakistan,Asia,"338,237",2023
+Chile,Americas,"333,760",2024
+Czech Republic,Europe,"325,880",2024
+Finland,Europe,"308,055",2024
+Portugal,Europe,"298,949",2024
+Kazakhstan,Asia,"296,740",2024
+Peru,Americas,"282,458",2024
+Algeria,Africa,"266,780",2024
+Iraq,Asia,"265,894",2024
+New Zealand,Oceania,"257,626",2024
+Nigeria,Africa,"252,738",2024
+Greece,Europe,"250,276",2024
+Qatar,Asia,"244,686",2024
+Hungary,Europe,"223,413",2024
+Ethiopia,Africa,"205,130",2024
+Ukraine,Europe,"188,943",2024
+Kuwait,Asia,"160,397",2024
+Morocco,Africa,"152,377",2024
+Slovakia,Europe,"140,808",2024
+Dominican Republic,Americas,"127,356",2024
+Cuba,Americas,—,"107,350"
+Ecuador,Americas,"121,592",2024
+Puerto Rico,Americas,"117,763",2024
+Guatemala,Americas,"110,035",2024
+Oman,Asia,"108,927",2024
+Bulgaria,Europe,"107,933",2024
+Kenya,Africa,"104,001",2024
+Venezuela,Americas,"102,328",2024
+Uzbekistan,Asia,"97,956",2024
+Costa Rica,Americas,"96,058",2024
+Angola,Africa,"92,123",2024
+Luxembourg,Europe,"88,556",2024
+Croatia,Europe,"88,076",2024
+Panama,Americas,"87,347",2024
+Ivory Coast,Africa,"86,911",2024
+Uruguay,Americas,"82,605",2024
+Turkmenistan,Asia,"81,896",2024
+Serbia,Europe,"81,873",2024
+Lithuania,Europe,"81,170",2024
+Tanzania,Africa,"79,605",2024
+Azerbaijan,Asia,"78,749",2024
+Ghana,Africa,"75,244",2024
+Sri Lanka,Asia,—,"74,404"
+DR Congo,Africa,"73,761",2024
+Slovenia,Europe,"72,101",2024
+Belarus,Europe,"69,048",2024
+Myanmar,Asia,"68,006",2024
+Uganda,Africa,"56,310",2024
+Tunisia,Africa,"54,708",2024
+Macau,Asia,"54,677",2024
+Jordan,Asia,"53,570",2024
+Cameroon,Africa,"53,205",2024
+Bolivia,Americas,"49,334",2024
+Libya,Africa,"48,221",2024
+Bahrain,Asia,"46,790",2024
+Paraguay,Americas,"45,817",2024
+Latvia,Europe,"45,466",2024
+Cambodia,Asia,"45,150",2024
+Nepal,Asia,"44,179",2024
+Estonia,Europe,"43,486",2024
+Lebanon,Asia,—,—
+Honduras,Americas,"37,355",2024
+Senegal,Africa,"35,450",2024
+El Salvador,Americas,"35,333",2024
+Zimbabwe,Africa,"34,405",2024
+Cyprus,Asia,"34,221",2024
+Iceland,Europe,"33,338",2024
+Georgia,Asia,"32,865",2024
+Papua New Guinea,Oceania,"31,716",2024
+Zambia,Africa,"29,872",2024
+Bosnia and Herzegovina,Europe,"29,078",2024
+Trinidad and Tobago,Americas,"28,365",2024
+Sudan,Africa,"26,865",2024
+Guinea,Africa,"25,447",2024
+Albania,Europe,"25,431",2024
+Armenia,Asia,"25,408",2024
+Haiti,Americas,"24,046",2024
+Mozambique,Africa,"22,975",2024
+Malta,Europe,"22,737",2024
+Mongolia,Asia,"21,943",2024
+Burkina Faso,Africa,"21,902",2024
+Mali,Africa,"21,662",2024
+Botswana,Africa,"21,418",2024
+Benin,Africa,"21,371",2024
+Guyana,Americas,"21,178",2024
+Gabon,Africa,"21,013",2024
+Jamaica,Americas,"20,098",2024
+Syria,Asia,—,—
+Palestine,Asia,"18,109",2021
+Nicaragua,Americas,"18,829",2024
+Niger,Africa,"18,816",2024
+Chad,Africa,"18,697",2024
+Moldova,Europe,"18,356",2024
+Yemen,Asia,"16,940",2024
+North Korea,Asia,—,—
+Madagascar,Africa,"16,465",2024
+Mauritius,Africa,"16,359",2024
+North Macedonia,Europe,"15,873",2024
+Brunei,Asia,"15,510",2024
+Congo,Africa,"15,501",2024
+Laos,Asia,"15,190",2024
+Afghanistan,Asia,—,—
+Bahamas,Americas,"14,390",2024
+Rwanda,Africa,"13,701",2024
+Kyrgyzstan,Asia,"13,599",2024
+Tajikistan,Asia,"12,953",2024
+Somalia,Africa,"12,804",2024
+Namibia,Africa,"12,765",2024
+Kosovo,Europe,"11,318",2024
+Malawi,Africa,"11,241",2024
+Equatorial Guinea,Africa,"10,708",2024
+Mauritania,Africa,"10,628",2024
+New Caledonia,Oceania,—,—
+Togo,Africa,"9,832",2024
+Monaco,Europe,—,—
+Montenegro,Europe,"8,011",2024
+Bermuda,Americas,—,"7,551"
+Maldives,Asia,"7,199",2024
+Barbados,Americas,"6,863",2024
+South Sudan,Africa,"6,517",2024
+French Polynesia,Oceania,—,—
+Cayman Islands,Americas,—,—
+Fiji,Oceania,"5,801",2024
+Eswatini,Africa,"5,085",2024
+Liberia,Africa,"4,754",2024
+Sierra Leone,Africa,"4,558",2024
+Djibouti,Africa,"4,364",2024
+Suriname,Americas,"4,337",2024
+Aruba,Americas,"4,069",2024
+Andorra,Europe,"3,897",2024
+Belize,Americas,"3,296",2024
+Greenland,Americas,—,—
+Bhutan,Asia,"3,110",2024
+Burundi,Africa,"3,075",2024
+Central African Republic,Africa,"2,810",2024
+Cape Verde,Africa,"2,718",2024
+Curaçao,Americas,—,—
+Gambia,Africa,"2,694",2024
+Saint Lucia,Americas,"2,582",2024
+Lesotho,Africa,"2,395",2024
+Eritrea,Africa,—,—
+Seychelles,Africa,"2,203",2024
+Guinea-Bissau,Africa,"2,151",2024
+Antigua and Barbuda,Americas,"2,127",2024
+Zanzibar,Africa,—,—
+San Marino,Europe,"2,034",2024
+East Timor,Asia,"1,992",2024
+Solomon Islands,Oceania,"1,707",2024
+Sint Maarten,Americas,—,"1,572"
+British Virgin Islands,Americas,—,—
+Comoros,Africa,"1,422",2024
+Grenada,Americas,"1,406",2024
+Vanuatu,Oceania,"1,289",2024
+Turks and Caicos Islands,Americas,—,"1,139"
+Saint Kitts and Nevis,Americas,"1,134",2024
+Saint Vincent and the Grenadines,Americas,"1,128",2024
+Samoa,Oceania,"1,024",2024
+São Tomé and Príncipe,Africa,751,2024
+Dominica,Americas,708,2024
+Tonga,Oceania,581,2024
+Micronesia,Oceania,484,2024
+Cook Islands,Oceania,—,—
+Kiribati,Oceania,311,2024
+Palau,Oceania,308,2024
+Marshall Islands,Oceania,305,2024
+Anguilla,Americas,—,—
+Nauru,Oceania,161,2024
+Montserrat,Americas,—,—
+Tuvalu,Oceania,66,2024
