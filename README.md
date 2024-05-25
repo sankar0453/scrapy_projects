@@ -78,3 +78,15 @@ Global Options
   -s NAME=VALUE, --set NAME=VALUE
                         set/override setting (may be repeated)
   --pdb                 enable pdb on failure
+
+### countries gdp spider 
+scrapy startproject countries_gdp
+cd countries_gdp
+scrapy genspider gdp wikipedia.org
+
+
+workspace_vscode/explore-scrapy/countries_gdp
+    scrapy crawl gdp
+
+scrapy crawl gdp -o gdp.csv
+scrapy crawl gdp -O gdp.csv ==> capital O means overwrite 
